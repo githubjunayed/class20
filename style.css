@@ -1,0 +1,20 @@
+.pic{
+    width: 70px;
+}
+.breadcrumb{
+    background: #ddd;
+    padding: 10px;
+    border-radius: 10px;
+}
+section{
+
+}
+.text{
+    background: #2f92f9;
+    padding: 20px;
+    text-align: center;
+}
+.text h2{
+    color: #ffff;
+    font-size: 20px;
+}
